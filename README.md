@@ -1,7 +1,7 @@
 ## mungkin project ini hanya akan menjadi mimpi buat saya karena suka bentrok dan tidak sempurna:)
 ## misal room 1 = a : b nah nanti di room 2 c bisa ketemu a/b
 
-# Masih belum jadi, sabar woi
+## nanti bakal ku archive
 
 # anonymous chat
 bot whatsapp with node js and baileys
