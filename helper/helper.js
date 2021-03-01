@@ -1,4 +1,5 @@
-const {queue , active_sessions} = require('../config/database')
+const {queue , active_sessions} = require('../config/database');
+const {MessageType} = require("@adiwajshing/baileys");
 
 const helper = {
     isActiveSession: async function(id, bot , stop = false){
