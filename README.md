@@ -1,12 +1,8 @@
-## mungkin project ini hanya akan menjadi mimpi buat saya karena suka bentrok dan tidak sempurna:)
-## misal room 1 = a : b nah nanti di room 2 c bisa ketemu a/b
-
-## nanti bakal ku archive
+# Features
+* Chatting with someone as anonymous (only text , other format update soon !)
 
 # anonymous chat
 bot whatsapp with node js and baileys
-
-
 
 ## &#x1F919; Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/zefian.zefian.98)
